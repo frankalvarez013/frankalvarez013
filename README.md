@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frank Alvarez</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-https://komarev.com/ghpvc/?username=frankalvarez013
-
 - 🎥 I’m currently building: **AO Construction Website**
 
 - - 🌱 I’m currently learning: **React.js, CSS, Python**
