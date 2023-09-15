@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frank Alvarez</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-- 🎥 I’m currently building: **AO Construction Website**
+- 🎥 I’m currently building: **AO Construction Website: Next.js, React.js**
 
 - 🌱 I’m currently learning: **React.js, CSS, Python**
 
