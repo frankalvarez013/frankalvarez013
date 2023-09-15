@@ -3,7 +3,7 @@
 
 - 🎥 I’m currently building: **AO Construction Website**
 
-- - 🌱 I’m currently learning: **React.js, CSS, Python**
+- 🌱 I’m currently learning: **React.js, CSS, Python**
 
 - 🎥 I’m building next: **Updating Personal Website**
 
