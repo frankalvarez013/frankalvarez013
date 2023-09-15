@@ -10,7 +10,10 @@
 - 💬 Ask me about **Git, React, Next, AI tools, Getting the Software Engineering Job**
 
 - <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,git,github,vscode&perline=10" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,git,github,vscode&perline=10" />
+  
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankalvarez013&show_icons=true&locale=en&layout=compact" alt="frankalvarez013" /></p>
 
