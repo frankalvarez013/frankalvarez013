@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerome Hardaway</h1>
+<h1 align="center">Hi 👋, I'm Frank Alvarez</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
 https://komarev.com/ghpvc/?username=frankalvarez013
