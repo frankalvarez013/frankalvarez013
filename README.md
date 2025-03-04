@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Frank Alvarez</h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-- 🎥 I’m currently building: **JW-Finder: Next.js, React.js, Prisma**
+- 🎥 I’m currently building: **With Get-Civic! https://www.get-civic.com/**
 
-- 🌱 I’m currently learning: **React.js, CSS, Python**
+- 🌱 I’m currently learning: **WebSockets and Docker/Cloud Architecture**
 
-- 🎥 I’m building next: **Updating Personal Website**
+- 🎥 I’m building next: **Gonna Try To Create a Mock Docker**
 
 - 💬 Ask me about **My College Experience, My Journey as a Junior Developer, What my goals are**
 
