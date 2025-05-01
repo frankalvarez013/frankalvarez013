@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Frank Alvarez</h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🎥 I’m currently building: **With Get-Civic! https://www.get-civic.com/**
+- 🎥 I’m currently Working at: **Get-Civic! https://www.get-civic.com/**
 
 - 🌱 I’m currently learning: **WebSockets and Docker/Cloud Architecture**
 
 - 🎥 I’m building next: **Gonna Try To Create a Mock Docker**
 
-- 💬 Ask me about **My College Experience, My Journey as a Junior Developer, What my goals are**
+- 💬 Ask me about **My College Experience, My Journey as a Full Stack Developer, What my goals are**
 
 - <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,git,github,vscode&perline=10" />
