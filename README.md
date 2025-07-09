@@ -7,7 +7,7 @@
 
 - 🎥 I’m building next: **Gonna Try To Create a Mock Docker**
 
-- 💬 Ask me about **My College Experience, My Journey as a Full Stack Developer, What my goals are**
+- 💬 Ask me about **My Startup Experience, My Journey as a Software Engineer, What my goals are**
 
 - <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,git,github,vscode&perline=10" />
