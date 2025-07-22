@@ -3,7 +3,7 @@
 
 - 🎥 I’m currently Working at: **Get-Civic! https://www.get-civic.com/**
 
-- 🌱 I’m currently learning: **WebSockets and Docker/Cloud Architecture**
+- 🌱 I’m currently learning: **Linux and Docker/AWS Cloud Architecture**
 
 - 🎥 I’m building next: **Gonna Try To Create a Mock Docker**
 
