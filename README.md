@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frank Alvarez</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🎥 I’m currently Working at: **Get-Civic! https://www.get-civic.com/**
+- 🎥 I’m currently Working at: **Civic! https://www.get-civic.com/**
 
 - 🌱 I’m currently learning: **Linux and Docker/AWS Cloud Architecture**
 
